@@ -1,22 +1,26 @@
 # 👋 Hi, I’m @RedZorra
 
-Welcome to my GitHub profile! I'm excited to share my projects and collaborate with others in the tech community.
+Welcome to my GitHub profile!I'm excited to share my projects and connect with fellow developers.
+
 
 ## 👀 I’m interested in...
-- Web Development
-- Game Development
-- Artificial Intelligence
-- Open Source Projects
+* Web Development (Frontend & Backend)
+* Mobile Development (Cross-Platform)
+* Open Source Contributions
+* Exploring New Technologies
+
 
 ## 🌱 I’m currently learning...
-- Frontend & Backend Development
-- JavaScript and its frameworks (React, Node.js)
-- Game development with Unity
+* Modern JavaScript frameworks (React, Angular)
+* Cross-platform mobile development (React Native)
+* PHP & WordPress development
+* Expanding my knowledge of backend technologies
 
 ## 💞️ I’m looking to collaborate on...
-- Open source projects
-- Web applications
-- Game development projects
+* Interesting web application projects
+* Open source initiatives
+* Projects involving modern JavaScript frameworks
+* Opportunities to learn and grow as a developer
 
 
 ## 📫 How to reach me...
